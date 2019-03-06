@@ -94,7 +94,7 @@ The objectives of a great production plan can be broken down by the following:
 
 # Contact information
 
-If you have any questions about the topic, you may send me an email to *vladislavbv96@gmail.com*, or contact me via social media, [instagram](https://www.instagram.com/vlaad96/?hl=es), [LinkedIn]((https://www.linkedin.com/in/vladislav-bulantsev-357281166/).
+If you have any questions about the topic, you may send me an email to *vladislavbv96@gmail.com*, or contact me via social media, [instagram](https://www.instagram.com/vlaad96/?hl=es), [LinkedIn](https://www.linkedin.com/in/vladislav-bulantsev-357281166/).
 
 
 # Bibliography
