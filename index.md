@@ -61,3 +61,4 @@ Well, a Gantt chart is basically an organizational tool that lets you establish 
 Here's an example.
 
 <img src="https://i.imgur.com/ikdIBvZ.png">
+
