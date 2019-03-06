@@ -6,7 +6,7 @@ I am [Vladislav Bulantsev](https://www.linkedin.com/in/vladislav-bulantsev-35728
 
 ### What is a production plan?
 
-One general definition for all industries would be: It is an administrative process that takes place within a business and involves making sure that there are enough staff, raw materials, and other necessary items in order to create a finished product according to a specified schedule. It's  aim is to maximize profitability.
+One general [definition](http://www.businessdictionary.com/definition/production-planning.html) for all industries would be: "It is an administrative process that takes place within a business and involves making sure that there are enough staff, raw materials, and other necessary items in order to create a finished product according to a specified schedule. It's  aim is to maximize profitability."
 Now, in the videogames industry, we take this general idea and apply it to our case. Depending on the size of the team, the production plan will be done by the whole team, if it is a small one; or by the leads of each area if it is a large one. 
 [Mark Claypool](https://www.wpi.edu/people/faculty/claypool) said on a study that for a professional game, to get the initial idea of a game would take about a month time, and to get the idea conceptualized, would take roughly 3 months.
 
@@ -14,7 +14,7 @@ Now, in the videogames industry, we take this general idea and apply it to our c
 
 The main reason is that ideas change over time. Getting into a game development project without planning, the development often deviates from the original idea. To try to avoid the deviation, a production plan is done.
 
-# What do we need to know before doing a Production Plan)
+# What do we need to know before doing a Production Plan?
 
 There are several phases in the development process of a video game and all of them need some planning.
 
@@ -62,3 +62,16 @@ Here's an example.
 
 <img src="https://i.imgur.com/ikdIBvZ.png">
 
+# How to create a great Production Plan?
+
+There are several advantages on createing a good production plan. Some of them would be a reduced labour costs by eliminating wasted time and impproving process flow, optimized usage of equipment and staff, imporved on time deliveries and milestones.
+The objectives of a great production plan can be broken down by the following:
+* Effective resource utilization
+* Steady flow or production
+* Optimal inventory levels
+* Coordination between multiple departments
+* Labort productivity improvement
+* Reduce production cost
+* On time delivery
+* High quality products
+* High customer satisfaction
