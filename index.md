@@ -91,3 +91,30 @@ The objectives of a great production plan can be broken down by the following:
 **Schedule.** It is the most difficult part of the planning as the manager needs to create an estimated start and end date for each of the tasks. The most visual way to organize the information is using a Gantt chart, however, it can be done in an excel document as well or other softwares where you can create charts and tables. Risk and contingency has to be taken into account as well, as some of the tasks will actually take more time than estimated, and there can be internal or external issues that can make the tasks take longer than expected (personal issues, disease, delays on features, etc). This step is really time consuming but it shows an approximation of how long the project will take to be completed.
 
 **Milestones.** Milestones are a sign of an important achievement and have no duration time. The milestones should follow a clear sequence of events that incrementally build up until a project is finished. It is a way to know how is the project advancing. During a game development, there are usually three main milestones: *Vertical slice*, it is a simple prototype to see the key features of the game; *Alpha*, a playable game with all the features implemented but may have bugs and probably will need to be polished in some aspects; *Beta*, a polished version of the Alpha, and with less bugs.
+
+# Contact information
+
+If you have any questions about the topic, you may send me an email to *vladislavbv96@gmail.com*, or contact me via social media, [instagram](https://www.instagram.com/vlaad96/?hl=es), [LinkedIn]((https://www.linkedin.com/in/vladislav-bulantsev-357281166/).
+
+
+# Bibliography
+
+https://www.pluralsight.com/blog/creative-professional/practical-guide-to-planning-your-first-game
+
+https://www.gamasutra.com/view/news/228260/Kellee_Santiagos_10step_video_game_production_plan.php
+
+https://www.slideshare.net/Kelvis2000/game-design-the-production-plan
+
+https://www.thoughtco.com/planning-a-game-development-project-1393892
+
+http://www.businessdictionary.com/definition/production-planning.html
+
+https://web.cs.wpi.edu/~imgd1001/a08/slides/imgd1001_04_GameDevTimeline.pdf
+
+https://www.ommzi.com/create-production-plan-concept-important-phases-consider/
+
+https://www.bdc.ca/en/articles-tools/operations/operational-efficiency/pages/production-plan-top-tips-improving-operations.aspx
+
+http://www.algorithminc.com/blog/bid/322578/Where-to-Start-with-Creating-a-Successful-Production-Plan
+
+https://www.clarizen.com/what-are-project-milestones/
