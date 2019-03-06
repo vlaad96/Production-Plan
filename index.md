@@ -75,3 +75,19 @@ The objectives of a great production plan can be broken down by the following:
 * On time delivery
 * High quality products
 * High customer satisfaction
+
+### Step by step
+
+**Create an initial planning.** The initial idea and planning will determine the course of the project. If the details and boundries of the project are not set clearly, the project will be hard to develop. Although this step is not unchangeable, it should be as accurate as possible.
+
+**Create a feature list.** It is a task list of all the features that are documented in the GDD and the TDD. They all have to be specified.
+
+**Create a staffing plan.**  It is another list where all the required staff is specified. An important part to take into account is that the main area where the budget goes into are the salaries of the workers, In order to organize the cost and time for worker, a [man-month](https://en.wiktionary.org/wiki/man-month) * 'One person's working time for a month, or the equivalent, used as a measure of how much work or labor is required or consumed to perform some task.' *
+
+**Assign tasks.** When working in a huge team, the leads of each department will assign the tasks and features that need to be done and also will have to assign each task to a team member. In smaller teams, every member will get a role and will be responsible for it.
+
+**Management between teams.** The management will work with the leads of each role to know the work that needs to be done and will look into the tasks and match dependencies between each team. Organizing the work, prevents creating features that may not be used at that time or may never be used. For example, you cannot create particles for an explosion when you do not even know if there will be grenades in the shooting game.
+
+**Schedule.** It is the most difficult part of the planning as the manager needs to create an estimated start and end date for each of the tasks. The most visual way to organize the information is using a Gantt chart, however, it can be done in an excel document as well or other softwares where you can create charts and tables. Risk and contingency has to be taken into account as well, as some of the tasks will actually take more time than estimated, and there can be internal or external issues that can make the tasks take longer than expected (personal issues, disease, delays on features, etc). This step is really time consuming but it shows an approximation of how long the project will take to be completed.
+
+**Milestones.** Milestones are a sign of an important achievement and have no duration time. The milestones should follow a clear sequence of events that incrementally build up until a project is finished. It is a way to know how is the project advancing. During a game development, there are usually three main milestones: *Vertical slice*, it is a simple prototype to see the key features of the game; *Alpha*, a playable game with all the features implemented but may have bugs and probably will need to be polished in some aspects; *Beta*, a polished version of the Alpha, and with less bugs.
