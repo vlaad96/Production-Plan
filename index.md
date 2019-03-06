@@ -39,16 +39,11 @@ Get the game to a beta version and start testing it with a small audience. Get a
 ## Budget
 
 It includes all the costs for the development of the project. It can be divided by branches.
-### Staff
-This icludes all the salaries for each memeber of the development team as well as of those one in charge of the management and marketing.
-### Environment
-Here goes all the expenses such as the rental of the studio, electricity, water, etc.
-### Research
-There are always costs that go into the research of information and are needed to take into account when planning the project.
-### Licenses
-Probably you will be using some licenses that need to be paid of in order to be used legally.
-### Entertainment
-In order for the team to be better, usually the leads organize activities to get the team to know each other better. Those activities can be basic ones such as going to eat together or more expensive such as travelling.
+**Staff:** This icludes all the salaries for each memeber of the development team as well as of those one in charge of the management and marketing.
+**Environment:** Here goes all the expenses such as the rental of the studio, electricity, water, etc.
+**Research:** There are always costs that go into the research of information and are needed to take into account when planning the project.
+**Licenses:** Probably you will be using some licenses that need to be paid of in order to be used legally.
+**Entertainment:** In order for the team to be better, usually the leads organize activities to get the team to know each other better. Those activities can be basic ones such as going to eat together or more expensive such as travelling.
 
 ## Deviation
 
