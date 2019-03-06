@@ -49,3 +49,15 @@ There are always costs that go into the research of information and are needed t
 Probably you will be using some licenses that need to be paid of in order to be used legally.
 ### Entertainment
 In order for the team to be better, usually the leads organize activities to get the team to know each other better. Those activities can be basic ones such as going to eat together or more expensive such as travelling.
+
+## Deviation
+
+In all projects, even the ones that have been planned very carefully, there are always some deviation during the actual development. This means that even though a shcedule is cretaed, most likely the final result will have been different than what was scheduled.
+
+# Tools
+
+A production plan can be done useing different simple tools. All you really need is a sheet where you can organize your work. Of course there are some tools that make the work easier. The most common way to create a production plan is using Gantt charts. If you do not know what a Gantt chart is or how it works, this is for you.
+Well, a Gantt chart is basically an organizational tool that lets you establish all the tasks that are needed to be done during the project, organize them by milestones and have an estimation of the time that it will take for each task to be done.
+Here's an example.
+
+<img src="https://i.imgur.com/ikdIBvZ.png">
