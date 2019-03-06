@@ -99,22 +99,22 @@ If you have any questions about the topic, you may send me an email to *vladisla
 
 # Bibliography
 
-https://www.pluralsight.com/blog/creative-professional/practical-guide-to-planning-your-first-game
+[https://www.pluralsight.com/blog/creative-professional/practical-guide-to-planning-your-first-game](https://www.pluralsight.com/blog/creative-professional/practical-guide-to-planning-your-first-game)
 
-https://www.gamasutra.com/view/news/228260/Kellee_Santiagos_10step_video_game_production_plan.php
+[https://www.gamasutra.com/view/news/228260/Kellee_Santiagos_10step_video_game_production_plan.php](https://www.gamasutra.com/view/news/228260/Kellee_Santiagos_10step_video_game_production_plan.php)
 
-https://www.slideshare.net/Kelvis2000/game-design-the-production-plan
+[https://www.slideshare.net/Kelvis2000/game-design-the-production-plan](https://www.slideshare.net/Kelvis2000/game-design-the-production-plan)
 
-https://www.thoughtco.com/planning-a-game-development-project-1393892
+[https://www.thoughtco.com/planning-a-game-development-project-1393892](https://www.thoughtco.com/planning-a-game-development-project-1393892)
 
-http://www.businessdictionary.com/definition/production-planning.html
+[http://www.businessdictionary.com/definition/production-planning.html](http://www.businessdictionary.com/definition/production-planning.html)
 
-https://web.cs.wpi.edu/~imgd1001/a08/slides/imgd1001_04_GameDevTimeline.pdf
+[https://web.cs.wpi.edu/~imgd1001/a08/slides/imgd1001_04_GameDevTimeline.pdf](https://web.cs.wpi.edu/~imgd1001/a08/slides/imgd1001_04_GameDevTimeline.pdf)
 
-https://www.ommzi.com/create-production-plan-concept-important-phases-consider/
+[https://www.ommzi.com/create-production-plan-concept-important-phases-consider/](https://www.ommzi.com/create-production-plan-concept-important-phases-consider/)
 
-https://www.bdc.ca/en/articles-tools/operations/operational-efficiency/pages/production-plan-top-tips-improving-operations.aspx
+[https://www.bdc.ca/en/articles-tools/operations/operational-efficiency/pages/production-plan-top-tips-improving-operations.aspx](https://www.bdc.ca/en/articles-tools/operations/operational-efficiency/pages/production-plan-top-tips-improving-operations.aspx)
 
-http://www.algorithminc.com/blog/bid/322578/Where-to-Start-with-Creating-a-Successful-Production-Plan
+[http://www.algorithminc.com/blog/bid/322578/Where-to-Start-with-Creating-a-Successful-Production-Plan](http://www.algorithminc.com/blog/bid/322578/Where-to-Start-with-Creating-a-Successful-Production-Plan)
 
 https://www.clarizen.com/what-are-project-milestones/
