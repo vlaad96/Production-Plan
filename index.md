@@ -134,4 +134,5 @@ If you have any questions about the topic, you may send me an email to *vladisla
 
 [http://www.algorithminc.com/blog/bid/322578/Where-to-Start-with-Creating-a-Successful-Production-Plan](http://www.algorithminc.com/blog/bid/322578/Where-to-Start-with-Creating-a-Successful-Production-Plan)
 
-https://www.clarizen.com/what-are-project-milestones/
+[https://www.clarizen.com/what-are-project-milestones/]
+(https://www.clarizen.com/what-are-project-milestones/)
