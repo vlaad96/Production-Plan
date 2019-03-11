@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/Ye4Jtu6.png">
 
-I am [Vladislav Bulantsev](https://www.linkedin.com/in/vladislav-bulantsev-357281166/) a student of the [CITM](https://www.citm.upc.edu), currently doing the Videogames Design and Development degree. This research is done for the second year subject Project II under the supervision of lecturer [Ricard Pillosu](https://www.linkedin.com/in/ricardpillosu/).
+I am [Vladislav Bulantsev](https://www.linkedin.com/in/vladislav-bulantsev-357281166/), student of the [Bachelor's Degree in Vide Games by UPC at CITM](<https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year's subject Project 2, under supervision of lecturer [Ricard Pillosu](<https://es.linkedin.com/in/ricardpillosu).
 
 # Introduction
 
