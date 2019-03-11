@@ -10,7 +10,7 @@ One general [definition](http://www.businessdictionary.com/definition/production
 Now, in the videogames industry, we take this general idea and apply it to our case. Depending on the size of the team, the production plan will be done by the whole team, if it is a small one; or by the leads of each area if it is a large one. 
 [Mark Claypool](https://www.wpi.edu/people/faculty/claypool) said on a study that for a professional game, to get the initial idea of a game would take about a month time, and to get the idea conceptualized, would take roughly 3 months.
 
-<img src="https://github.com/vlaad96/Production-Plan/blob/master/Docs/example.jpg">
+<img src="https://i.imgur.com/Og3OSfp.jpg">
 *Example of an example of a production planning chart* (http://swatelier.info/at/tour/plan.htm)
 
 # What do we need to know before doing a Production Plan?
@@ -106,7 +106,7 @@ Meanwhile, contingency planning is the planning of the steps or actions that nee
 Parting from these definitions, of risk management and contingency planning, a plan is created to help the teams prevent major problems when problems occur. All projects have risks, smaller or bigger, and every member of the team should know what to do if the risk becomes a reality. That is why a risk and contingency document is created as a part of a paroduction plan.
 If there are a lot of risks, is a good idea to organize them by work areas,
 
-<img src="https://github.com/vlaad96/Production-Plan/blob/master/Docs/film-schedule-risk-assessment-contingency-plan-4-1024.jpg">
+<img src="https://i.imgur.com/3A7CnKR.jpg">
 *Example of a risk and contingency plan for a small project* (https://www.slideshare.net/HJones137/film-schedule-risk-assessment-contingency-plan)
 
 # Contact information
