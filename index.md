@@ -113,6 +113,12 @@ If there are a lot of risks, is a good idea to organize them by work areas,
 
 If you have any questions about the topic, you may send me an email to *vladislavbv96@gmail.com*, or contact me via social media, [instagram](https://www.instagram.com/vlaad96/?hl=es), [LinkedIn](https://www.linkedin.com/in/vladislav-bulantsev-357281166/).
 
+# Practice exercise
+
+Chose platform, target audience, your team. You have 28 days to create the game. Create your plan to do it in the best way possible.
+To do so, complete this excel table. number of goals can be changed.
+[Excel table](https://github.com/vlaad96/Production-Plan/blob/master/Docs/Exercise.xlsx)
+
 
 # Bibliography
 
