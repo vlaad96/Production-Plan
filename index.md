@@ -106,7 +106,8 @@ Meanwhile, contingency planning is the planning of the steps or actions that nee
 Parting from these definitions, of risk management and contingency planning, a plan is created to help the teams prevent major problems when problems occur. All projects have risks, smaller or bigger, and every member of the team should know what to do if the risk becomes a reality. That is why a risk and contingency document is created as a part of a paroduction plan.
 If there are a lot of risks, is a good idea to organize them by work areas,
 
-<img src="<
+<img src="https://github.com/vlaad96/Production-Plan/blob/master/Docs/film-schedule-risk-assessment-contingency-plan-4-1024.jpg">
+*Example of a risk and contingency plan for a small project* (https://www.slideshare.net/HJones137/film-schedule-risk-assessment-contingency-plan)
 
 # Contact information
 
