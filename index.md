@@ -11,7 +11,7 @@ Now, in the videogames industry, we take this general idea and apply it to our c
 [Mark Claypool](https://www.wpi.edu/people/faculty/claypool) said on a study that for a professional game, to get the initial idea of a game would take about a month time, and to get the idea conceptualized, would take roughly 3 months.
 
 <img src="https://i.imgur.com/Og3OSfp.jpg">
-*Example of an example of a production planning chart* (http://swatelier.info/at/tour/plan.htm)
+*Example of a production planning chart* (http://swatelier.info/at/tour/plan.htm)
 
 # What do we need to know before doing a Production Plan?
 
@@ -55,7 +55,7 @@ In all projects, even the ones that have been planned very carefully, there are 
 
 # Tools
 
-A production plan can be done useing different simple tools. All you really need is a sheet where you can organize your work. Of course there are some tools that make the work easier. The most common way to create a production plan is using Gantt charts. If you do not know what a Gantt chart is or how it works, this is for you.
+A production plan can be done using different simple tools. All you really need is a sheet where you can organize your work. Of course there are some tools that make the work easier. The most common way to create a production plan is using Gantt charts. If you do not know what a Gantt chart is or how it works, this is for you.
 Well, a Gantt chart is basically an organizational tool that lets you establish all the tasks that are needed to be done during the project, organize them by milestones and have an estimation of the time that it will take for each task to be done.
 Here's an example.
 
@@ -100,7 +100,7 @@ The objectives of a great production plan can be broken down by the following:
 **Contingency plaaning:** "is the practice of identifying steps to be taken if a risk occurs."
 *quoted by web page: https://simplicable.com/new/risk-management-vs-contingency-planning
 
-Though these are similar ideas, there are differences between risk management and contingency planning. While risk management focuses on steps that need to be taken to reduce risk such as risk avoidance ("is the elimination of hazards, activities, and exposures that can negatively affect an organization's assets. Whereas risk management aims to control the damages and financial consequences of threatening events, risk avoidance seeks to avoid compromising events entirely.", *https://www.mha-it.com/2016/11/30/defining-risk-avoidance/*) or mitigation ("the act of reducing how harmful, unpleasant, or bad something is", *https://dictionary.cambridge.org/dictionary/english/mitigation*). Risk management also takes into account that there are risks that sometimes are worth taking.
+Though these are similar ideas, there are differences between risk management and contingency planning. While risk management focuses on steps that need to be taken to reduce risk such as risk avoidance ("is the elimination of hazards, activities, and exposures that can negatively affect an organization's assets. Whereas risk management aims to control the damages and financial consequences of threatening events, risk avoidance seeks to avoid compromising events entirely."), *https://www.mha-it.com/2016/11/30/defining-risk-avoidance/*) or mitigation ("the act of reducing how harmful, unpleasant, or bad something is") , *https://dictionary.cambridge.org/dictionary/english/mitigation*). Risk management also takes into account that there are risks that sometimes are worth taking.
 Meanwhile, contingency planning is the planning of the steps or actions that need to be taken when the risk occurs. Contingency planning is usually used when the risk is quite improbably but the impact would cause a huge disruption in the development process.
 
 Parting from these definitions, of risk management and contingency planning, a plan is created to help the teams prevent major problems when problems occur. All projects have risks, smaller or bigger, and every member of the team should know what to do if the risk becomes a reality. That is why a risk and contingency document is created as a part of a paroduction plan.
@@ -111,7 +111,7 @@ If there are a lot of risks, is a good idea to organize them by work areas,
 
 # Contact information
 
-If you have any questions about the topic, you may send me an email to *vladislavbv96@gmail.com*, or contact me via social media, [instagram](https://www.instagram.com/vlaad96/?hl=es), [LinkedIn](https://www.linkedin.com/in/vladislav-bulantsev-357281166/).
+If you have any questions about the topic, you may send me an email to *vladislavbv96@gmail.com*, or contact me via social media, [LinkedIn](https://www.linkedin.com/in/vladislav-bulantsev-357281166/).
 
 # Practice exercise
 
